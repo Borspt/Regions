@@ -15,7 +15,7 @@ from sklearn.metrics import (
 
 from tqdm import tqdm_notebook
 
-
+###2022
 def calculate_optimal_distance(
     list_clusters: list, list_optimal: list
 ) -> Tuple[float, int]:
